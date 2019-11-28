@@ -1,2 +1,2 @@
-Git is a cerdsf.
-Git is free  fdsdsfsdfsdf.
+Git is a distributed version control system.
+Git is free software.
